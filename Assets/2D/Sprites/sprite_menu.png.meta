@@ -104,7 +104,7 @@ TextureImporter:
         y: 0
         width: 625
         height: 1080
-      alignment: 0
+      alignment: 9
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -121,7 +121,7 @@ TextureImporter:
       name: sprite_menu_1
       rect:
         serializedVersion: 2
-        x: 655
+        x: 656
         y: 0
         width: 625
         height: 1080
@@ -142,7 +142,7 @@ TextureImporter:
       name: sprite_menu_2
       rect:
         serializedVersion: 2
-        x: 1311
+        x: 1312
         y: 0
         width: 625
         height: 1080
@@ -163,7 +163,7 @@ TextureImporter:
       name: sprite_menu_3
       rect:
         serializedVersion: 2
-        x: 1967
+        x: 1968
         y: 0
         width: 625
         height: 1080
@@ -184,7 +184,7 @@ TextureImporter:
       name: sprite_menu_4
       rect:
         serializedVersion: 2
-        x: 2623
+        x: 2624
         y: 0
         width: 625
         height: 1080
@@ -205,7 +205,7 @@ TextureImporter:
       name: sprite_menu_5
       rect:
         serializedVersion: 2
-        x: 3279
+        x: 3280
         y: 0
         width: 625
         height: 1080
@@ -331,7 +331,7 @@ TextureImporter:
       name: sprite_menu_11
       rect:
         serializedVersion: 2
-        x: 7215
+        x: 7216
         y: 0
         width: 625
         height: 1080
