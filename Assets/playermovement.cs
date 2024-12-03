@@ -21,9 +21,11 @@ public class playermovement : MonoBehaviour
         rb.velocity = moveInput * moveSpeed;
     }
 
-    public void Move (InputAction.CallbackContext context)
+    public void Move(InputAction.CallbackContext context)
     {
         moveInput = context.ReadValue<Vector2>();
     }
 
 }
+
+
